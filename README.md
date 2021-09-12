@@ -34,7 +34,7 @@ O intuito do projeto é a implementação de uma API RESTful para um alimentador
 De maneira simples, podemos afirmar que expandir rapidamente a gama de dispositivos, cria oportunidade para mais, e cada vez mais rápidos, insights; conectando o que não estava conectado. A solução em IoT da Felix I.A. para o produto SmartFeed oferece nova maneira de promover eficiência e envolver o cliente.
 
 ## Arquitetura da solução
-<img src="Imagem/Arquitetura-SmartFeed.jpeg">
+<img src="Imagem/FelixArquitetura-SmartFeed.jpeg">
 
 ## Descrição das funcionalidades principais
 
