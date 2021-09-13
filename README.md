@@ -47,3 +47,7 @@ De maneira simples, podemos afirmar que expandir rapidamente a gama de dispositi
     1. Tela onde será cadastrado as informações do pet.
 5. **Busca de pet:**
     1. Tela onde será exibido os pets cadastrados do usuário.
+6. **Editar pet:**
+    1. Tela onde será editado as informações dos pets cadastrados do usuário.
+7. **Remover pet:**
+    1. Tela onde removerá os pets cadastrados do usuário.
