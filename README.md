@@ -38,16 +38,16 @@ De maneira simples, podemos afirmar que expandir rapidamente a gama de dispositi
 
 ## Breve descrição das funcionalidades do back-end
 1. **Login:**
-    1. Tela onde será feito o login do Usuário no sistema. Poderá ser preenchido os campos de e-mail e senha. Ao clicar em entrar, será redirecionado para a tela Home. Se não tiver uma conta, clicar em cadastre-se.
+    Tela onde será feito o login do Usuário no sistema. Poderá ser preenchido os campos de e-mail e senha. Ao clicar em entrar, será redirecionado para a tela Home. Se não tiver uma conta, clicar em cadastre-se.
 2. **Cadastro:** 
-    1. Tela onde será realizado o cadastro do Usuário no sistema. Caso o usuário ainda não tenha uma conta, deverá cadastrar-se com nome, e-mail e senha. Após o cadastro, será redirecionado para a tela de login novamente.
+    Tela onde será realizado o cadastro do Usuário no sistema. Caso o usuário ainda não tenha uma conta, deverá cadastrar-se com nome, e-mail e senha. Após o cadastro, será redirecionado para a tela de login novamente.
 3. **Home:**
-    1. Tela onde será exibido nome e as informações do pet.
+    Tela onde será exibido nome e as informações do pet.
 4. **Cadastro de pet:**
-    1. Tela onde será cadastrado as informações do pet.
+    Tela onde será cadastrado as informações do pet.
 5. **Busca de pet:**
-    1. Tela onde será exibido os pets cadastrados do usuário.
+    Tela onde será exibido os pets cadastrados do usuário.
 6. **Editar pet:**
-    1. Tela onde será editado as informações dos pets cadastrados do usuário.
+    Tela onde será editado as informações dos pets cadastrados do usuário.
 7. **Remover pet:**
-    1. Tela onde removerá os pets cadastrados do usuário.
+    Tela onde removerá os pets cadastrados do usuário.
