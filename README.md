@@ -36,18 +36,14 @@ De maneira simples, podemos afirmar que expandir rapidamente a gama de dispositi
 ## Arquitetura da solução
 <img src="Imagem/Arquitetura-FelixSmartFeed.jpeg">
 
-## Descrição das funcionalidades principais
-
+## Breve descrição das funcionalidades do back-end
 1. **Login:**
-    1. Tela onde será feito o login do Usuário no sistema. Poderá ser preenchido os campos de e-mail e senha, ou entrar com uma conta de rede social. Ao clicar em entrar, será redirecionado para a tela Home. Se não tiver uma conta, clicar em cadastre-se.
+    1. Tela onde será feito o login do Usuário no sistema. Poderá ser preenchido os campos de e-mail e senha. Ao clicar em entrar, será redirecionado para a tela Home. Se não tiver uma conta, clicar em cadastre-se.
 2. **Cadastro:** 
-    1. Tela onde será realizado o cadastro do Usuário no sistema. Caso o usuário ainda não tenha uma conta no aplicativo, deverá cadastrar-se com nome, e-mail e senha, ou através de redes sociais. Após o cadastro, será redirecionado para a tela de login novamente.
+    1. Tela onde será realizado o cadastro do Usuário no sistema. Caso o usuário ainda não tenha uma conta, deverá cadastrar-se com nome, e-mail e senha. Após o cadastro, será redirecionado para a tela de login novamente.
 3. **Home:**
-    1. Tela onde será exibido nome e as informações do pet, a foto e as tarefas do dia.
-    2. Exemplo de tarefa: Ao 12:00 o pet será alimentado. 
-    3. Ao clicar em “Editar perfil” ou no ícone na barra de navegações, será redirecionado para a tela de configurações.
-4. **Configurações:**
-    1. Tela onde o usuário poderá editar as informações de perfil que serão enviadas para o comedor inteligente, como horário e quantidade de ração. Ao clicar em “Editar” os dados serão atualizados.
-5. **Notificações:** 
-    1. Tela onde o usuário receberá notificações do sistema, exemplo: ração está acabando. 
-    2. Será mostrado o progresso da realização das tarefas.
+    1. Tela onde será exibido nome e as informações do pet.
+4. **Cadastro de pet:**
+    1. Tela onde será cadastrado as informações do pet.
+5. **Busca de pet:**
+    1. Tela onde será exibido os pets cadastrados do usuário.
